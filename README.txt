@@ -1,4 +1,3 @@
-# infm600kanishka
 1. DATASET 1:
 
 Citation:
@@ -42,6 +41,5 @@ Kanishka Ramamoorthy (2015). Meeting_Population_Combined [Data file]. Retrieved 
  
 LICENSE
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
-
 
 
